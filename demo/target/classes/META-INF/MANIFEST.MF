@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Implementation-Title: demo
+Implementation-Version: 0.0.1-SNAPSHOT
+Built-By: AL2630
+Implementation-Vendor-Id: com.weather
+Build-Jdk: 1.8.0_211
+Implementation-URL: https://spring.io/projects/spring-boot/weather
+Created-By: Maven Integration for Eclipse
+
